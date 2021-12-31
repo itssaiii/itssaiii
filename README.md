@@ -18,7 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itssaiii&theme=merko&show_icons=true&locale=en" alt="itssaiii" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itssaiii&show_icons=true&locale=en&layout=compact" alt="itssaiii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itssaiii&show_icons=true&theme=merko&locale=en&layout=compact" alt="itssaiii" /></p>
 
 
 
