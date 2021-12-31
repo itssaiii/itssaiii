@@ -1,7 +1,8 @@
 ### Hi there, I'm Abhishek Saigiridhari 👋  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=itssaiii&show_icons=true&theme=merko)
+
 
 <!--
 **itssaiii/itssaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
